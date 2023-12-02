@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, OpenCV and doing internship in Institut "Jožef Stefan".
-- 🚀 &nbsp; I’m currently learning Docker Development.
+- 🛠 &nbsp; I’m currently working on an AI Project for YouTube automation.
+- 🚀 &nbsp; I’m currently improving my AI skills.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Alperenlcr).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Alperenlcr/Alperenlcr/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Who's ready for game -> Discord -> TeamSquad#9190.
