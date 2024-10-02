@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on an AI Project for YouTube automation.
-- 🚀 &nbsp; I’m currently improving my AI skills.
+- 🛠 &nbsp; I’m currently working on an automatic upload from YouTube shorts to TikTok.
+- 🚀 &nbsp; I’m currently expertising my Python skills.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Alperenlcr).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Alperenlcr/Alperenlcr/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Who's ready for game -> Discord -> TeamSquad#9190.
