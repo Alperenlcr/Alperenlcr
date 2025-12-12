@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 - 😄 &nbsp; Checkout my [Website](https://www.alperenlcr.net/).
 
 ![Visitor Count](https://profile-counter.glitch.me/Alperenlcr/count.svg)
+
+![](https://komarev.com/ghpvc/?username=Alperenlcr&abbreviated=true) ~ 2026
