@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on an automatic upload from YouTube shorts to TikTok.
+- 🛠 &nbsp; I’m currently working at [Massive Marine AI](https://www.massivemarine.ai/) and additionally building a side [Crypto Trading Bot](https://alperenlcr.github.io/trade_bot_results/) project.
 - 🚀 &nbsp; I’m currently expertising my Python skills.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Alperenlcr).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Alperenlcr/Alperenlcr/issues/1)! I am happy to help.
